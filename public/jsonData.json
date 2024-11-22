@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "title": "Winter Clothes for the Needy",
+      "image": "https://i.ibb.co.com/gRckn6T/istockphoto-538570416-612x612.jpg",
+      "description": "Collecting warm clothing for underprivileged families during the winter season.",
+      "status": "Active",
+      "contactInfo": "contact@charity.com, +123456789",
+      "division": "North"
+    },
+    {
+      "id": 2,
+      "title": "School Supplies for Kids",
+      "image": "https://i.ibb.co.com/F5VqZ1F/mane-choice-natural-hair-products-for-kids.webp",
+      "description": "Providing essential school supplies for children in rural areas.",
+      "status": "Ongoing",
+      "contactInfo": "schoolsupport@ngo.org, +987654321",
+      "division": "East"
+    },
+    {
+      "id": 3,
+      "title": "Flood Relief Program",
+      "image": "https://i.ibb.co.com/9Vc3ykL/Brac-staff-contributes-one-day-salary-for-post-flood-recoveries-81b5d697218c25934c549f1ec4bcff81.webp",
+      "description": "Emergency support for families affected by recent floods.",
+      "status": "Completed",
+      "contactInfo": "relief@disasteraid.org, +192837465",
+      "division": "South"
+    },
+    {
+      "id": 4,
+      "title": "Food Drive for the Homeless",
+      "image": "https://i.ibb.co.com/SKzRKZH/istockphoto-1430650502-612x612.jpg",
+      "description": "Distributing food packages to homeless shelters across the city.",
+      "status": "Active",
+      "contactInfo": "food@caregivers.com, +564738291",
+      "division": "West"
+    },
+    {
+      "id": 5,
+      "title": "Clean Water Initiative",
+      "image": "https://i.ibb.co.com/YQwDdLc/RAIN-2.jpg",
+      "description": "Installing water filtration systems in areas with contaminated water.",
+      "status": "Upcoming",
+      "contactInfo": "water@freshstart.org, +111222333",
+      "division": "Central"
+    },
+    {
+      "id": 6,
+      "title": "Books for Bright Futures",
+      "image": "https://i.ibb.co.com/f84JsrP/Riwoto-Primary-Health-Care-Centre-20-jpg.webp",
+      "description": "Encouraging literacy by donating books to schools and libraries.",
+      "status": "Ongoing",
+      "contactInfo": "books@literacymission.org, +444555666",
+      "division": "North"
+    },
+    {
+      "id": 7,
+      "title": "Healthcare for All",
+      "image": "https://i.ibb.co.com/ckXNLLN/Getty-Images-1255511553.jpg",
+      "description": "Free medical checkups and medicines for underserved communities.",
+      "status": "Active",
+      "contactInfo": "healthcare@globalhelp.org, +777888999",
+      "division": "East"
+    },
+    {
+      "id": 8,
+      "title": "Shelter Restoration Project",
+      "image": "https://i.ibb.co.com/92dr29m/34934b3ec877-thumb01.jpg",
+      "description": "Repairing and rebuilding homes for low-income families.",
+      "status": "Completed",
+      "contactInfo": "shelter@homeaid.org, +999888777",
+      "division": "South"
+    }
+  ]
